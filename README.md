@@ -7,4 +7,4 @@ Pasos para ejecutar proyecto
 4. Abrir el proyecto
 ## Produccion
 1. Ejecutar "npm run build"
-2. Tomar la carptea "dist" y desplegarla
+2. Tomar la carptea "dist" y desplegarla asjidjai
